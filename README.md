@@ -8,8 +8,8 @@ In the MindLink GitHub Repository, ensure that you are in the correct branch (ma
 
 **1. Clone the Repository**
 ```javascript
-$ git clone https://github.com/rezkdavid/MindLink
-$ cd https://github.com/rezkdavid/MindLink
+$ git clone https://github.com/Calvin526/MindLink
+$ cd https://github.com/Calvin526/MindLink
 ```
 
 **2. Ensure the WorkingApp folder is downloaded properly**
