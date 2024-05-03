@@ -1,23 +1,23 @@
 # MindLink
 
-Welcome to MindLink, a Link Between Two Worlds! This application made possible in Unity is a maze game that allows the user to play using solely their thoughts.
+Welcome to MindLink, a Link Between Two Worlds! This application made possible in Unity is a maze game that allows the user to play using solely their thoughts. This process is replicated through a Unity Websocket connection that mimics EEG signalling.
 ## Installation
 
 In the MindLink GitHub Repository, ensure that you are in the correct branch (main) and have downloaded all the necessary files.
 
 
-**1. Clone the Repository**
+**1. Clone the Repository.**
 ```javascript
 $ git clone https://github.com/Calvin526/MindLink
 $ cd https://github.com/Calvin526/MindLink
 ```
 
-**2. Ensure the WorkingApp folder is downloaded properly**
+**2. Ensure the WorkingApp folder is downloaded properly.**
 
 <img width="367" alt="Screen Shot 2024-04-24 at 00 57 51" src="https://github.com/rezkdavid/MindLink/assets/102778686/a61ebdab-1d71-4ddf-bb02-1ea0c27bc1a4">
 
 
-**3. Unzip the Unity-Working-Application.zip file**
+**3. Unzip the Unity-Working-Application.zip file.**
 
 <img width="369" alt="Screen Shot 2024-04-12 at 15 12 52" src="https://github.com/rezkdavid/MindLink/assets/102778686/cf4e3af0-bf67-4317-809c-391d69e4b7e9">
 
@@ -25,7 +25,7 @@ $ cd https://github.com/Calvin526/MindLink
 **4. Open the Unity-Working-Application application and enjoy the game!**
 
 ## Technologies Used:
-**FrontEnd:** Unity, C# \
+**Frontend/Backend:** Unity, C# \
 **Machine Learning:** Python \
 **Database:** PlayFab \
 **Version Control:** GitHub
